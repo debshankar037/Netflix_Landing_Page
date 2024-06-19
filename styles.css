@@ -161,7 +161,7 @@ label::after{
     content: '+';
     font-size: 60px;
     position:absolute;
-    right:340px;
+    right:500px;
     transition:transform 0.5s;
 }
 input[type="checkbox"]{
